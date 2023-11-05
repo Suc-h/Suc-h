@@ -1,7 +1,4 @@
-### Helo 👋
--  Hraju lolko =D 
--  Programuju jako mega gamer 
--  Dobrou!
+### Hello 👋
 
  ### Projekty na kterých jsem se podílel:
 ##### http://krupkaclicker.jednoduse.cz/
